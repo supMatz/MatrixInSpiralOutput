@@ -1,0 +1,7 @@
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\Output_Sprilare_Matrix-Cerioni\Output_Sprilare_Matrix-Cerioni\bin\Debug\Output_Sprilare_Matrix-Cerioni.exe.config
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\Output_Sprilare_Matrix-Cerioni\Output_Sprilare_Matrix-Cerioni\bin\Debug\Output_Sprilare_Matrix-Cerioni.exe
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\Output_Sprilare_Matrix-Cerioni\Output_Sprilare_Matrix-Cerioni\bin\Debug\Output_Sprilare_Matrix-Cerioni.pdb
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\Output_Sprilare_Matrix-Cerioni\Output_Sprilare_Matrix-Cerioni\obj\Debug\Output_Sprilare_Matrix-Cerioni.csprojAssemblyReference.cache
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\Output_Sprilare_Matrix-Cerioni\Output_Sprilare_Matrix-Cerioni\obj\Debug\Output_Sprilare_Matrix-Cerioni.csproj.CoreCompileInputs.cache
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\Output_Sprilare_Matrix-Cerioni\Output_Sprilare_Matrix-Cerioni\obj\Debug\Output_Sprilare_Matrix-Cerioni.exe
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\Output_Sprilare_Matrix-Cerioni\Output_Sprilare_Matrix-Cerioni\obj\Debug\Output_Sprilare_Matrix-Cerioni.pdb
